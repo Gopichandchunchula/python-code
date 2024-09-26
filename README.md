@@ -1,5 +1,6 @@
 # python-code
 #Take a list to find the second highest value
+
 x = [10, 20, 30, 40, 50]
 highest = second_highest = float('-inf')  
 
